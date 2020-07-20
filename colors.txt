@@ -2,3 +2,8 @@ red
 black
 green
 blue
+red violet
+indigo
+gray
+apricot
+
